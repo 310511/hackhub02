@@ -1,0 +1,3 @@
+[submodule "medhive_UI"]
+    path = medhive_UI
+    url = https://github.com/310511/medhive_UI.git 
