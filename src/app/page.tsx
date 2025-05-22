@@ -231,7 +231,7 @@ export default function Index() {
                       Join us for a 51-hour marathon of innovation, creativity, and coding. Build something meaningful and compete for exciting rewards.
                     </p>
                     <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
-                      <Link href="https://hackhub-01.devpost.com/" target="_blank" rel="noopener noreferrer">
+                      <Link href="https://hackhub-01.devpost.com/?ref_feature=challenge&ref_medium=discover&_gl=1*979e3a*_gcl_au*MTEwMDU0MTYwNS4xNzQ2NzI5NDM0*_ga*OTc0MDY1NDYuMTc0NjcyOTQzNA..*_ga_0YHJK3Y10M*czE3NDc5MDUwNzckbzIzJGcxJHQxNzQ3OTA1MjIyJGowJGwwJGgw" target="_blank" rel="noopener noreferrer">
                         <Button size="lg" className="bg-gradient-to-r from-indigo-500 to-purple-600 hover:from-indigo-600 hover:to-purple-700">
                           Register Now
                           <ArrowUpRight className="ml-2 h-4 w-4" />
@@ -508,7 +508,7 @@ export default function Index() {
                     </span>
                   </p>
                   <div className="flex flex-col sm:flex-row justify-center gap-8">
-                    <Link href="https://hackhub-01.devpost.com/" target="_blank" rel="noopener noreferrer" className="relative group transform hover:scale-105 transition-transform duration-300">
+                    <Link href="https://hackhub-01.devpost.com/?ref_feature=challenge&ref_medium=discover&_gl=1*979e3a*_gcl_au*MTEwMDU0MTYwNS4xNzQ2NzI5NDM0*_ga*OTc0MDY1NDYuMTc0NjcyOTQzNA..*_ga_0YHJK3Y10M*czE3NDc5MDUwNzckbzIzJGcxJHQxNzQ3OTA1MjIyJGowJGwwJGgw" target="_blank" rel="noopener noreferrer" className="relative group transform hover:scale-105 transition-transform duration-300">
                       <div className="absolute -inset-1 bg-cyan-500/20 blur-2xl group-hover:bg-cyan-500/30 transition-all duration-300 rounded-2xl" />
                       <Button size="lg" className="relative bg-black/80 backdrop-blur-xl border-2 border-cyan-400/40 hover:border-cyan-300 text-cyan-300 hover:text-white px-10 py-7 rounded-xl text-lg font-['Poppins'] transition-all duration-300 group-hover:shadow-[0_0_40px_rgba(34,211,238,0.4)]">
                         <span className="mr-3">⚡</span>
